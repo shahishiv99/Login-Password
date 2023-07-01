@@ -1,0 +1,10 @@
+html {
+  box-sizing: border-box;
+}
+body {
+  marker: 0;
+}
+
+.stl {
+  margin: 10px 0px;
+}
